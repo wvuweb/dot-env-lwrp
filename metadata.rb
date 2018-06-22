@@ -1,0 +1,7 @@
+name             'dot-env-lwrp'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures dot-env-lwrp'
+long_description 'Installs/Configures dot-env-lwrp'
+version          '0.1.0'
